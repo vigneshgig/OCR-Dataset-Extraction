@@ -1,0 +1,11 @@
+https://www.example1.in/
+https://www.example1.in/page1
+https://www.example1.in/page2
+https://www.example1.in/page3
+https://www.example2.com/
+https://www.example2.com/page1
+https://www.example2.com/page2
+https://www.example3.com/
+https://www.example3.com/page1
+https://www.example3.com/page2
+
